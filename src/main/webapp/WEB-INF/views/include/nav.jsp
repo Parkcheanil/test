@@ -1,0 +1,11 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<ul>
+
+	<li><a href="/board/listPage?num=1">거래처 목록(페이징)</a></li>
+	
+	<li><a href="/board/list">거래처 목록</a></li>
+
+	<li><a href="/board/write">거래처 등록</a></li>
+</ul>
